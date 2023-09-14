@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jcuervo2390.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["DA:18:29:A7:FA:7C:08:B3:09:C6:53:4E:D0:D7:32:D1:81:13:A2:2C:0B:25:BD:EF:6E:22:90:43:37:0C:B7:83"]
+    }
+  }]
+  
